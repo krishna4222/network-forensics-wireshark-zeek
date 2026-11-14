@@ -1,17 +1,54 @@
-# Network Forensics using Wireshark & Zeek
 
-## Description
-This project focuses on analyzing network traffic to detect cyber threats using Wireshark and Zeek.
+# Network Forensics Using Wireshark & Zeek
 
-## Tools Used
+## 1. Project Overview
+
+This project focuses on network traffic analysis and digital forensics using Wireshark and Zeek. The objective is to examine network communication, identify suspicious activities and analyse network logs to support cybersecurity investigations.
+
+## 2. Project Objectives
+
+- Understand network traffic analysis.
+- Examine network packets using Wireshark.
+- Generate and review network activity logs using Zeek.
+- Identify suspicious activities and unusual network behaviour.
+- Understand the role of network forensics in cybersecurity.
+
+## 3. Tools and Technologies
+
+| Tool | Purpose |
+|---|---|
+| Wireshark | Network packet capture and analysis |
+| Zeek | Network traffic monitoring and log generation |
+
+## 4. Methodology
+
+1. **Network Traffic Analysis:** Captured and examined network packets using Wireshark.
+2. **Traffic Investigation:** Reviewed packet information to understand network communication.
+3. **Log Generation:** Used Zeek to generate network activity logs.
+4. **Forensic Analysis:** Examined network traffic and logs to support investigation of suspicious behaviour.
+
+## 5. Work Performed
+
+- Captured and analysed network packets.
+- Investigated suspicious activities and network anomalies.
+- Generated network activity logs using Zeek.
+- Performed forensic analysis of network traffic.
+
+## 6. Project Outcome
+
+This project improved my understanding of network traffic analysis, packet inspection, network logging and digital forensics.
+
+## 7. Skills Developed
+
+- Network Traffic Analysis
+- Packet Inspection
+- Network Log Analysis
+- Digital Forensics
 - Wireshark
 - Zeek
 
-## What I Did
-- Captured and analyzed network packets
-- Detected suspicious activities and anomalies
-- Generated logs using Zeek
-- Performed forensic analysis of network traffic
+## 8. Project Information
 
-## Outcome
-This project helped me understand real-world cybersecurity investigation and network forensics.
+- **Project Type:** Academic Cybersecurity Project
+- **Tools:** Wireshark, Zeek
+- **Focus Area:** Network Security & Digital Forensics
