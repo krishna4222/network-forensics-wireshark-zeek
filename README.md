@@ -52,3 +52,11 @@ This project improved my understanding of network traffic analysis, packet inspe
 - **Project Type:** Academic Cybersecurity Project
 - **Tools:** Wireshark, Zeek
 - **Focus Area:** Network Security & Digital Forensics
+
+## 9. Project Screenshots
+
+### Wireshark Packet Capture
+
+![Wireshark Packet Capture](screenshots/wireshark-packet-capture.png)
+
+*Figure 1: Wireshark packet capture interface showing network traffic and packet details.*
