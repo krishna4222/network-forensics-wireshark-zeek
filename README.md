@@ -97,3 +97,30 @@ This project improved my understanding of network traffic analysis, packet inspe
 ![Wireshark 10000 Packets](screenshots/wireshark-10000-packets.png)
 
 *Figure 4: Captured 10,000 packets from malware.pcap using Wireshark.*
+
+
+## 6. Key Findings
+
+Based on the analysis documented in the original project report:
+
+- Examined network traffic using Wireshark.
+- Observed HTTP requests and responses using protocol filters.
+- Reviewed source and destination IP addresses.
+- Analysed Zeek connection logs (`conn.log`) and HTTP logs (`http.log`).
+- Observed repeated HTTP requests and traffic patterns highlighted in the report.
+- Reviewed the beacon-filtered traffic shown in the Wireshark screenshots.
+
+## 7. Project Conclusion
+
+This project provided practical academic experience in network traffic analysis and digital forensics using Wireshark and Zeek.
+
+It helped develop an understanding of packet inspection, network connection logs, protocol analysis and identifying potentially suspicious network behaviour.
+
+## 8. Tools and Technologies
+
+- Wireshark
+- Zeek
+- Network Traffic Analysis
+- Digital Forensics
+- HTTP and TCP Protocol Analysis
+
