@@ -67,3 +67,15 @@ This project improved my understanding of network traffic analysis, packet inspe
 ![Wireshark HTTP Traffic](screenshots/wireshark-http-traffic.png)
 
 *Figure 2: Wireshark HTTP traffic filter showing GET requests, HTTP responses and packet details.*
+
+### 3. Zeek Connection Log Analysis
+
+![Zeek Connection Logs](screenshots/zeek-connection-logs.png)
+
+*Figure 3: Zeek conn.log showing network connection details, source and destination IP addresses, protocols, services and connection states.*
+
+**Analysis:**
+- Examined network connection records using Zeek.
+- Reviewed source and destination IP addresses.
+- Inspected TCP connections and HTTP/SSL services.
+- Investigated repeated HTTP requests reported in the project.
