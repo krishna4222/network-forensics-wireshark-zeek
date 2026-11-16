@@ -124,6 +124,10 @@ It helped develop an understanding of packet inspection, network connection logs
 - Digital Forensics
 - HTTP and TCP Protocol Analysis
 
+
+## 9. Project Structure
+
+```text
 network-forensics-wireshark-zeek/
 │
 ├── screenshots/
@@ -135,3 +139,4 @@ network-forensics-wireshark-zeek/
 │
 ├── README.md
 └── Wireshark and zeek in cyber crime and digital forensic project.pdf
+```
