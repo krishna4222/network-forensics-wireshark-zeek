@@ -79,3 +79,15 @@ This project improved my understanding of network traffic analysis, packet inspe
 - Reviewed source and destination IP addresses.
 - Inspected TCP connections and HTTP/SSL services.
 - Investigated repeated HTTP requests reported in the project.
+
+### 4. Wireshark Malware Beaconing Pattern
+
+![Wireshark Malware Beaconing Pattern](screenshots/wireshark-malware-beacon.png)
+
+*Figure 4: Wireshark traffic view showing the beacon filter and network traffic patterns documented in the original project report.*
+
+**Analysis:**
+- Reviewed traffic displayed using the `beacon` filter.
+- Observed HTTP and SSL traffic entries.
+- Examined source and destination IP addresses.
+- Documented the traffic patterns shown in the project report.
