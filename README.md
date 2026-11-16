@@ -58,7 +58,7 @@ This project improved my understanding of network traffic analysis, packet inspe
 
 ### 1. Wireshark Packet Capture
 
-![Wireshark Packet Capture](screenshots/wireshark-packet-capture.png)
+![Wireshark Packet Capture](screenshots/wireshark-packet-capture..png)
 
 *Figure 1: Wireshark packet capture interface showing network traffic and packet details.*
 
