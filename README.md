@@ -91,3 +91,9 @@ This project improved my understanding of network traffic analysis, packet inspe
 - Observed HTTP and SSL traffic entries.
 - Examined source and destination IP addresses.
 - Documented the traffic patterns shown in the project report.
+
+### 5. Wireshark Malware PCAP Analysis
+
+![Wireshark 10000 Packets](screenshots/wireshark-10000-packets.png)
+
+*Figure 4: Captured 10,000 packets from malware.pcap using Wireshark.*
